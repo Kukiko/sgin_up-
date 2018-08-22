@@ -1,2 +1,1 @@
-# sgin_up-
-def is_user_logged_in (username_sign_in, usrname, password_sign_in, password):            if username_sign_in == username and password_sign_in == password:                         return True            else:                        return False              new_username = raw_input ('write here your new username: ')                    new_password = raw_input('wriete here your new password: ')             print 'okey thank u pro'            username = raw_input(' HI pro, plz wirte your username: ')            password = raw_inptut('write here your password: ')             print is_user_logged_in(username, new_username, password, new_password) 
+This code is simple to record just no more
